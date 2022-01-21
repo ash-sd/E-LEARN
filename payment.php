@@ -40,10 +40,10 @@
                 <tbody>
                   <?php
                     $payments = array(
-                      array("name"=>"taha", "payment"=>"First", "bill"=>"00012223" , "amount"=>"DHS 500,000", "balance"=>"05-Jan,2022", "date"=>"08-Dec,2021"),
-                      array("name"=>"azzadine", "payment"=>"First", "bill"=>"00012223" , "amount"=>"DHS 500,000", "balance"=>"05-Jan,2022", "date"=>"08-Dec,2021"),
-                      array("name"=>"khadija", "payment"=>"First", "bill"=>"00012223" , "amount"=>"DHS 500,000", "balance"=>"05-Jan,2022", "date"=>"08-Dec,2021"),
-                      array("name"=>"hatim", "payment"=>"First", "bill"=>"00012223" , "amount"=>"DHS 500,000", "balance"=>"05-Jan,2022", "date"=>"08-Dec,2021")
+                      array("name"=>"Karthi", "payment"=>"First", "bill"=>"00012223" , "amount"=>"DHS 500,000", "balance"=>"05-Jan,2022", "date"=>"08-Dec,2021"),
+                      array("name"=>"Karthi", "payment"=>"First", "bill"=>"00012223" , "amount"=>"DHS 500,000", "balance"=>"05-Jan,2022", "date"=>"08-Dec,2021"),
+                      array("name"=>"Karthi", "payment"=>"First", "bill"=>"00012223" , "amount"=>"DHS 500,000", "balance"=>"05-Jan,2022", "date"=>"08-Dec,2021"),
+                      array("name"=>"Karthi", "payment"=>"First", "bill"=>"00012223" , "amount"=>"DHS 500,000", "balance"=>"05-Jan,2022", "date"=>"08-Dec,2021")
                     );
                     foreach($payments as $p_list) {
                       echo '<tr>';
