@@ -35,8 +35,7 @@
                   <th class="py-3">Enroll Number</th>
                   <th class="py-3">Date of admission</th>
                   <th class="py-3">&nbsp;</th>
-                  <th class="py-3">&nbsp;</th>
-                  <th class="py-3">&nbsp;</th>
+
                 </tr>
               </thead>
 
@@ -59,7 +58,7 @@
                     echo '<th class="fw-normal">'.$std['phone'].'</th>';
                     echo '<th class="fw-normal">'.$std['enroll'].'</th>';
                     echo '<th class="fw-normal">'.$std['date'].'</th>';
-                    echo '<th class="fw-normal">'.$std['date'].'</th>';
+                    echo '<th class="fw-normal">'.'<a href="#"><i class="bi bi-eye"></i></a>'.'</th>';
                     echo '</tr>';
                   };
                    ?>
