@@ -53,6 +53,8 @@
                       echo '<th class="fw-normal py-3">'.$p_list['amount'].'</th>';
                       echo '<th class="fw-normal py-3">'.$p_list['balance'].'</th>';
                       echo '<th class="fw-normal py-3">'.$p_list['date'].'</th>';
+                      echo '<th class="fw-normal">'.'<a href="#"><i class="bi bi-eye"></i></a>'.'</th>';
+                      echo '<th class="fw-normal">'.'<a href="#"><i class="bi bi-pencil"></i></a>'.'</th>';
                       echo '<th class="fw-normal py-3"> </th>';
                       echo '</tr>';
                     };
